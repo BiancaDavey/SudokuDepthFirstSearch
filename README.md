@@ -24,4 +24,4 @@ Python3 is required to run this program.
 
 Bianca Davey
 
-bdavey2@une.edu.au
+biancamdavey91@gmail.com
