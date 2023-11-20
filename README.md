@@ -1,6 +1,6 @@
 # Sudoku Depth First Search
 
-This program implements a Depth First Search to solve a sudoku puzzle.
+This program implements a Depth First Search algorithm to solve a sudoku puzzle.
 
 ## Features
 
